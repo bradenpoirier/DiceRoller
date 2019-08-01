@@ -1,4 +1,4 @@
-# DiceRoller
+# Dice Roller
 A random number generator making use of the Hadamard operation on three qubits
 - You can set up a Q# dev environment by installing .NET Core, 
   VS Code, C# extension for VS Code: https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code
